@@ -72,6 +72,7 @@ require_once(__DIR__ . "/lib/Node2ClientGenerator.php");
 require_once(__DIR__ . "/lib/ObjCClientGenerator.php");
 require_once(__DIR__ . "/lib/Php4ClientGenerator.php");
 require_once(__DIR__ . "/lib/Php53ClientGenerator.php");
+require_once(__DIR__ . "/lib/PhpNgClientGenerator.php");
 require_once(__DIR__ . "/lib/Php5ClientGenerator.php");
 require_once(__DIR__ . "/lib/PhpZendClientGenerator.php");
 require_once(__DIR__ . "/lib/PojoClientGenerator.php");

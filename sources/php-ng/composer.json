@@ -1,0 +1,26 @@
+{
+    "name": "kaltura/api-client-library",
+    "description": "An auto generated Composer package for the Kaltura API client library",
+    "keywords": ["kaltura", "client library", "video", "open source video", "video platform", "api"],
+    "minimum-stability": "stable",
+    "license": "AGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Kaltura",
+            "homepage": "https://www.kaltura.com/"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "ext-json": "*",
+        "ext-xml": "*",
+        "ext-curl": "*",
+        "ext-simplexml": "*",
+        "ext-openssl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kaltura": "library"
+        }
+    }
+}
